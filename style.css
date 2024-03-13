@@ -30,7 +30,7 @@ html{
      }
     
     .fullscreen-landing{
-        background:white url("/public/images/banner.jpg") no-repeat scroll center;
+        background:white url("/images/banner.jpg") no-repeat scroll center;
         height: 100vh;
         background-size: cover;
     }
