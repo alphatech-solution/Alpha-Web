@@ -12,7 +12,7 @@ html{
     margin-left:10px;
     }
     .img-test{
-        color:rgb(238, 238, 233)) !important;
+        color:rgb(238, 238, 233) !important;
          border:2px solid transparent;
          border-radius:50%;
          animation:grow-icon-logo 0.8s infinite linear;
