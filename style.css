@@ -7,12 +7,12 @@ html{
     width:40px;
     height:40px;
     border-radius:50%;
-    box-shadow:0 0 10px rgb(226, 223, 223);
+    box-shadow:0 0 10px rgb(32, 31, 31);
     margin-right:5px;
     margin-left:10px;
     }
     .img-test{
-        color:rgb(238, 238, 233) !important;
+        color:rgb(30, 30, 29) !important;
          border:2px solid transparent;
          border-radius:50%;
          animation:grow-icon-logo 0.8s infinite linear;
@@ -63,7 +63,8 @@ html{
     
     
     .yellow{
-        background-color: #f1e392;
+        
+        background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
     }
 
   
