@@ -64,7 +64,9 @@ html{
     
     .yellow{
         
-        background: radial-gradient(circle, rgba(245,214,186,1) 0%, rgba(191,244,82,1) 100%);
+        background:black;
+        color: white;
+        
     }
 
   
